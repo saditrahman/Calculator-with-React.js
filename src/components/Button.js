@@ -8,7 +8,7 @@ class Button extends Component {
 
             <div>
 
-                <button class="calc-button">1</button>
+                <button class="calc-button">{this.props.symbols}</button>
             </div>
 
 
