@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Button from "./components/Button";
 import "./css/style.css";
+import IntroMessage from "./components/IntroMessage";
 class App extends Component {
   constructor(props) {
     super(props);
@@ -76,6 +77,7 @@ class App extends Component {
 
     return (
       <div className="App">
+        <IntroMessage/>
         <div>
           {this.state.previous.length > 0 ? (
             <div className="prev-display">
