@@ -13,6 +13,10 @@ To run:
 1. Clone the repo
 2. Go the directory
 3. run ```npm install```
-4. That is it!
+4. run ```npm start```
+
+I get an error :( No problem!
+
+Use this ```npm install react-scripts --save```
 
 
