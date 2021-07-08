@@ -19,6 +19,6 @@ I get an error :( No problem!
 
 Use this ```npm install react-scripts --save```
 
-###Screenshots
+## Screenshots
 
-![First Page](Image.png)
+![First Page](https://github.com/saditrahman/Calculator-with-React.js/blob/master/Image.PNG)
